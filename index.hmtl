@@ -9,6 +9,12 @@
         <link rel="stylesheet" href="">
     </head>
     <body>
-        <
+       <div> List of things you can make  </div> 
+       <ul> <li> noodles  </li> 
+            <li> Potato soup </li> 
+            <li> Refried beans and tortillas </li>
+            <li> baked bread </li> 
+            <li> garlic jalepeno and rice </li> 
+       </ul>
     </body>
 </html>
